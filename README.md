@@ -1,0 +1,1 @@
+# ortak_base_amplifier_analizor
